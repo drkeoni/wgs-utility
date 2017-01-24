@@ -1,3 +1,6 @@
+# private data, not to be uploaded
+private/**
+
 # History files
 .Rhistory
 .Rapp.history

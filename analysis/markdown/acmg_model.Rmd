@@ -1,8 +1,9 @@
 ---
 title: "Characterizing the ACMG56 Model"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
+bibliography: ../../references/papers.bib
 ---
 
 ```{r setup, include=FALSE}
@@ -16,11 +17,16 @@ library(printr)
 
 ## Introduction
 
-This analysis is a summary of a model developed in May 2016.
-
+This analysis is a summary of a model developed in May 2016.  The model was developed using data about typical carrier
+frequencies for the ACMG56 conditions [@gm:17:197] plus internal Invitae data regarding the prevalence of
+SNVs, indels, and CNVs in the pathogenic variant spectrum for each gene.
 ```{r warning=FALSE}
 d <- load.model('../data/exome_acmg56_model.cleaned.csv')
 d <- calculate.sensitivity(d,0.98,0.93,0.7)
 plot.condition.carrier.freqs(d)
 ```
+
+The above plot shows the carrier frequency data as collected by Ding, _et al_.
+
+## References
 

@@ -1,3 +1,6 @@
+# Mac specific files
+.DS_Store
+
 # private data, not to be uploaded
 private/**
 
@@ -23,6 +26,10 @@ private/**
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
+
+analysis/markdown/*.html
+analysis/markdown/*_cache/**
+analysis/markdown/*_files/**
 
 # OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
 .httr-oauth

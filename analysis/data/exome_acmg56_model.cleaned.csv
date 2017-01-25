@@ -1,0 +1,58 @@
+"condition","gene","carrier.freq","typical.cds.coverage","adj.coverage","snv.burden","indel.burden","cnv.burden","snv.burden.est","indel.burden.est","cnv.burden.est"
+"Hereditary breast and ovarian cancer","BRCA1",0.004589,1,1,0.3371,0.4644,0.1985,0.3371,0.4644,0.1985
+"Hereditary breast and ovarian cancer","BRCA2",0.004589,1,1,0.3073,0.6592,0.0335,0.3073,0.6592,0.0335
+"Li-Fraumeni syndrome","TP53",1e-04,0.9994,0.9994,0.9268,0.0244,0.0488,0.9268,0.0244,0.0488
+"Peutz-Jeghers syndrome","STK11",1.2e-05,0.9625,0.9,0.375,0.1875,0.4375,0.375,0.1875,0.4375
+"Lynch syndrome","MLH1",0.001066,0.9997,0.9997,0.5444,0.3111,0.1444,0.5444,0.3111,0.1444
+"Lynch syndrome","MSH2",0.001066,1,1,0.3855,0.3133,0.3012,0.3855,0.3133,0.3012
+"Lynch syndrome","MSH6",0.001066,1,1,0.3077,0.5934,0.0989,0.3077,0.5934,0.0989
+"Lynch syndrome","PMS2",0.001066,0.9448,0.73,0.4286,0.254,0.3175,0.4286,0.254,0.3175
+"Familial adenomatous polyposis","APC",2.7e-05,1,1,0.3913,0.5109,0.0978,0.3913,0.5109,0.0978
+"MYH-associated polyposis; adenomas, multiple colorectal, FAP type 2, colorectal adenomatous polyposis, autosomal recessive, with pilomatricomas","MUTYH",0.014142,1,1,0.7059,0.2353,0.0588,0.7059,0.2353,0.0588
+"Von Hippel–Lindau syndrome","VHL",2.8e-05,1,1,0.6,0.1333,0.2667,0.6,0.1333,0.2667
+"MEN1","MEN1",3.3e-05,1,1,0.5,0.4583,0.0417,0.5,0.4583,0.0417
+"MEN2","RET",2.9e-05,0.9993,0.9993,1,NA,NA,1,0,0
+"Familial medullary thyroid cancer","RET",2.9e-05,0.9993,0.9993,1,NA,NA,1,0,0
+"PTEN hamartoma tumor syndrome","PTEN",5e-06,1,1,0.5385,0.3462,0.1154,0.5385,0.3462,0.1154
+"Retinoblastoma","RB1",5.8e-05,0.9997,0.9997,0.6,0.4,NA,0.55,0.35,0.1
+"Hereditary paraganglioma-pheochromocytoma syndrome","SDHD",3e-06,0.9762,0.9762,0.5,0.375,0.125,0.5,0.375,0.125
+"Hereditary paraganglioma-pheochromocytoma syndrome","SDHAF2",3e-06,1,1,NA,NA,NA,0.6,0.3,0.1
+"Hereditary paraganglioma-pheochromocytoma syndrome","SDHC",3e-06,1,1,0.6667,NA,0.3333,0.6,0.3,0.1
+"Hereditary paraganglioma-pheochromocytoma syndrome","SDHB",3e-06,1,1,0.8,0.0667,0.1333,0.8,0.0667,0.1333
+"Tuberous sclerosis complex","TSC1",0.000172,1,1,0.6,0.4,NA,0.55,0.35,0.1
+"Tuberous sclerosis complex","TSC2",0.000172,0.9999,0.9999,0.4211,0.3158,0.2632,0.4211,0.3158,0.2632
+"WT1-related Wilms tumor","WT1",6e-06,1,1,1,NA,NA,1,0,0
+"Neurofibromatosis type 2","NF2",2.8e-05,0.9996,0.9996,0.3333,NA,0.6667,0.6,0.2,0.2
+"Ehlers–Danlos syndrome, vascular type","COL3A1",1e-05,1,1,1,NA,NA,0.8,0.1,0.1
+"Marfan syndrome, Loeys–Dietz syndrome, and familial thoracic aortic aneurysms and dissections","FBN1",0.000144,0.9998,0.9998,0.7917,0.1667,0.0417,0.7917,0.1667,0.0417
+"Marfan syndrome, Loeys–Dietz syndrome, and familial thoracic aortic aneurysms and dissections","TGFBR1",0.000144,0.9269,0.85,1,NA,NA,0.8,0.1,0.1
+"Marfan syndrome, Loeys–Dietz syndrome, and familial thoracic aortic aneurysms and dissections","TGFBR2",0.000144,0.9995,0.9995,0.5,0.5,NA,0.8,0.1,0.1
+"Marfan syndrome, Loeys–Dietz syndrome, and familial thoracic aortic aneurysms and dissections","SMAD3",0.000144,1,1,0.5,0.5,NA,0.6,0.3,0.1
+"Marfan syndrome, Loeys–Dietz syndrome, and familial thoracic aortic aneurysms and dissections","ACTA2",0.000144,1,1,1,NA,NA,0.95,0.025,0.025
+"Marfan syndrome, Loeys–Dietz syndrome, and familial thoracic aortic aneurysms and dissections","MYLK",0.000144,1,1,NA,NA,NA,0.8,0.1,0.1
+"Marfan syndrome, Loeys–Dietz syndrome, and familial thoracic aortic aneurysms and dissections","MYH11",0.000144,1,1,NA,NA,NA,0.8,0.1,0.1
+"Hypertrophic cardiomyopathy, dilated","MYBPC3",0.001241,0.9988,0.9988,0.5417,0.4167,0.0417,0.5417,0.4167,0.0417
+"Hypertrophic cardiomyopathy, dilated","MYH7",0.001241,0.9846,0.9846,0.9615,0.0385,NA,0.95,0.025,0.025
+"Hypertrophic cardiomyopathy, dilated","TNNT2",0.001241,1,1,1,NA,NA,0.8,0.1,0.1
+"Hypertrophic cardiomyopathy, dilated","TNNI3",0.001241,1,1,1,NA,NA,0.8,0.1,0.1
+"Hypertrophic cardiomyopathy, dilated","TPM1",0.001241,1,1,1,NA,NA,0.95,0.025,0.025
+"Hypertrophic cardiomyopathy, dilated","MYL3",0.001241,1,1,1,NA,NA,0.9,0.05,0.05
+"Hypertrophic cardiomyopathy, dilated","ACTC1",0.001241,1,1,1,NA,NA,0.9,0.05,0.05
+"Hypertrophic cardiomyopathy, dilated","PRKAG2",0.001241,1,1,1,NA,NA,0.9,0.05,0.05
+"Hypertrophic cardiomyopathy, dilated","GLA",0.001241,0.9994,0.9994,1,NA,NA,0.7,0.2,0.1
+"Hypertrophic cardiomyopathy, dilated","MYL2",0.001241,1,1,NA,NA,NA,0.8,0.1,0.1
+"Hypertrophic cardiomyopathy, dilated","LMNA",0.001241,1,1,1,NA,NA,0.7,0.2,0.1
+"Catecholaminergic polymorphic ventricular","RYR2",5.8e-05,0.9782,0.95,0.3333,NA,0.6667,0.75,0.1,0.15
+"Arrhythmogenic right-ventricular cardiomyopathy","PKP2",0.00253,1,1,0.375,0.375,0.25,0.5,0.4,0.1
+"Arrhythmogenic right-ventricular cardiomyopathy","DSP",0.00253,1,1,0.75,0.25,NA,0.7,0.2,0.1
+"Arrhythmogenic right-ventricular cardiomyopathy","DSC2",0.00253,1,1,NA,NA,NA,0.6,0.3,0.1
+"Arrhythmogenic right-ventricular cardiomyopathy","TMEM43",0.00253,1,1,NA,NA,NA,0.9,0.05,0.05
+"Arrhythmogenic right-ventricular cardiomyopathy","DSG2",0.00253,1,1,1,NA,NA,0.7,0.2,0.1
+"Romano–Ward long QT syndrome types 1, 2, and 3; Brugada syndrome","KCNQ1",0.000218,0.9993,0.9993,0.8158,0.1579,0.0263,0.8158,0.1579,0.0263
+"Romano–Ward long QT syndrome types 1, 2, and 3; Brugada syndrome","KCNH2",0.000218,1,1,0.6667,0.3333,NA,0.6,0.3,0.1
+"Romano–Ward long QT syndrome types 1, 2, and 3; Brugada syndrome","SCN5A",0.000218,0.997,0.997,0.6842,0.2105,0.1053,0.6842,0.2105,0.1053
+"Familial hypercholesterolemia","LDLR",0.003,0.9979,0.9979,0.75,0.1667,0.0833,0.75,0.1667,0.0833
+"Familial hypercholesterolemia","APOB",0.003,1,1,0.75,0.25,NA,0.5,0.4,0.1
+"Familial hypercholesterolemia","PCSK9",0.003,0.9996,0.9996,1,NA,NA,0.9,0.05,0.05
+"Malignant hyperthermia susceptibility","RYR1",7.1e-05,0.9934,0.9934,1,NA,NA,0.8,0.1,0.1
+"Malignant hyperthermia susceptibility","CACNA1S",7.1e-05,1,1,NA,NA,NA,0.8,0.1,0.1

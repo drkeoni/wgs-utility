@@ -1,0 +1,26 @@
+---
+title: "Characterizing the ACMG56 Model"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache=T)
+```
+```{r echo=FALSE, include=FALSE, cache=FALSE}
+source('../scripts/acmg_model.R',chdir=T)
+# printr can be installed following instructions at https://github.com/yihui/printr
+library(printr)
+```
+
+## Introduction
+
+This analysis is a summary of a model developed in May 2016.
+
+```{r warning=FALSE}
+d <- load.model('../data/exome_acmg56_model.cleaned.csv')
+d <- calculate.sensitivity(d,0.98,0.93,0.7)
+plot.condition.carrier.freqs(d)
+```
+
